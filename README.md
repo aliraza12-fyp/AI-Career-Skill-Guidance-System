@@ -2,10 +2,11 @@
  🎯 AI Career & Skill Guidance System
 
 📘 *Project Overview:*
+
 AI Career & Skill Guidance System is an intelligent assistant designed to help students and beginners choose the best career path and learn the most in-demand skills based on their interests, education level, and current abilities.  
 It uses AI-powered recommendations and free learning resource links to guide users step-by-step toward their goals.
 
-💡 Objective:
+💡 *Objective:*
 To create a personal AI career counselor that helps students:
 - Discover career options that match their interests  
 - Identify skill gaps and suggest what to learn next  
@@ -13,7 +14,7 @@ To create a personal AI career counselor that helps students:
 - Save time and confusion in choosing the right career path  
 
 
- ⚙️ How It Works:
+ ##⚙️ How It Works:
 1. The user interacts with the AI chatbot.  
 2. The chatbot collects input like:
    - Degree / Field of Study  
@@ -28,6 +29,7 @@ To create a personal AI career counselor that helps students:
 
 
  🚀 Key Features:
+ 
 - 🧠 AI-based personalized recommendations 
 - 🔗 Direct learning links to free resources  
 - 📊 Skill-gap identification and suggestions  
@@ -37,7 +39,8 @@ To create a personal AI career counselor that helps students:
 - 🧩 Expandable design– future updates possible  
 
 
- 🧰 Tools & Technologies Used
+ 🧰 Tools & Technologies Used:
+ 
 | Category    |  Tools / Platforms |
 |-----------  |------------------|
 | AI & Chatbot| Voiceflow, OpenAI GPT API 
