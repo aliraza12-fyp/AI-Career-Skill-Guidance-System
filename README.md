@@ -71,6 +71,7 @@ To create a personal AI career counselor that helps students:
 - Progress tracking dashboard  
 
  👨‍💻 *Developer:*
+ 
 Name: Ali Raza  
 Program: BS IT (7th Semester)  
 University:  The Islamia University of Bahawalpur (IUB)  
