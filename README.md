@@ -7,6 +7,7 @@ AI Career & Skill Guidance System is an intelligent assistant designed to help s
 It uses AI-powered recommendations and free learning resource links to guide users step-by-step toward their goals.
 
 💡 *Objective:*
+
 To create a personal AI career counselor that helps students:
 - Discover career options that match their interests  
 - Identify skill gaps and suggest what to learn next  
@@ -14,7 +15,8 @@ To create a personal AI career counselor that helps students:
 - Save time and confusion in choosing the right career path  
 
 
- ##⚙️ How It Works:
+ ⚙️ *How It Works:*
+ 
 1. The user interacts with the AI chatbot.  
 2. The chatbot collects input like:
    - Degree / Field of Study  
@@ -28,7 +30,7 @@ To create a personal AI career counselor that helps students:
 4. Data is stored and automated using Google Sheets & Make.com for easy updates.
 
 
- 🚀 Key Features:
+ 🚀 *Key Features:*
  
 - 🧠 AI-based personalized recommendations 
 - 🔗 Direct learning links to free resources  
@@ -62,13 +64,13 @@ To create a personal AI career counselor that helps students:
 - [edX](https://www.edx.org)
 
 
- 📈 Future Enhancements:
+ 📈 *Future Enhancements:*
 - AI Resume & Portfolio Builder  
 - Skill-level testing quiz  
 - Integration with LinkedIn for job suggestions  
 - Progress tracking dashboard  
 
- 👨‍💻 Developer:
+ 👨‍💻 *Developer:*
 Name: Ali Raza  
 Program: BS IT (7th Semester)  
 University:  The Islamia University of Bahawalpur (IUB)  
