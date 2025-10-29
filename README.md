@@ -72,10 +72,10 @@ To create a personal AI career counselor that helps students:
 
  👨‍💻 *Developer:*
  
-Name: Ali Raza  
-Program: BS IT (7th Semester)  
-University:  The Islamia University of Bahawalpur (IUB)  
-Year: 2025-26 
+*Name:* Ali Raza  
+*Program:* BS IT (7th Semester)  
+*University:*  The Islamia University of Bahawalpur (IUB)  
+*Year:* 2025-26 
 
 
 ⭐ “Empowering students with AI to make smarter career choices.”
