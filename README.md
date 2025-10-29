@@ -1,7 +1,7 @@
 # AI-Career-Skill-Guidance-System
  🎯 AI Career & Skill Guidance System
 
-📘 Project Overview:
+📘 *Project Overview:*
 AI Career & Skill Guidance System is an intelligent assistant designed to help students and beginners choose the best career path and learn the most in-demand skills based on their interests, education level, and current abilities.  
 It uses AI-powered recommendations and free learning resource links to guide users step-by-step toward their goals.
 
