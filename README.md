@@ -40,7 +40,8 @@ To create a personal AI career counselor that helps students:
 - ⚡ Google Sheets automation for data handling  
 - 🗣️ Simple chatbot interface (Voiceflow)  
 - 🧾 Career comparison tool for clarity  
-- 🧩 Expandable design– future updates possible  
+- 🧩 Expandable design– future updates possible
+- 📊 Ai Skill Progress tracking
 
 
  🧰 Tools & Technologies Used:
