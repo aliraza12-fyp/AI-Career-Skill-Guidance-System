@@ -12,7 +12,8 @@ To create a personal AI career counselor that helps students:
 - Discover career options that match their interests  
 - Identify skill gaps and suggest what to learn next  
 - Get direct links to trusted, free online learning platforms (YouTube, Coursera, etc.)  
-- Save time and confusion in choosing the right career path  
+- Save time and confusion in choosing the right career path
+- Voice interaction mode for easy communication & compare different career
 
 
  ⚙️ *How It Works:*
@@ -22,11 +23,12 @@ To create a personal AI career counselor that helps students:
    - Degree / Field of Study  
    - Interests  
    - Skills (if any)  
-   - Career goals (optional)  
+   - Career goals  
 3. The system analyzes user data and suggests:
    - Top 3 career options  
    - Skills needed for each career  
-   - Free learning links (YouTube, Coursera, FreeCodeCamp)  
+   - Free learning links (YouTube, Coursera, FreeCodeCamp)
+   - Compare different career
 4. Data is stored and automated using Google Sheets & Make.com for easy updates.
 
 
@@ -46,12 +48,13 @@ To create a personal AI career counselor that helps students:
 | Category    |  Tools / Platforms |
 |-----------  |------------------|
 | AI & Chatbot| Voiceflow, OpenAI GPT API 
-| Automation  | Make.com (Integromat), Google Apps Script 
+| Automation  | Make.com (Integromat), Zapier , Google Apps Script 
 | Database    | Google Sheets 
-| Frontend    | HTML, CSS (for interface if required) 
+| Frontend    | HTML, CSS (for interface ) 
 | Design      | Canva, Figma 
 | Learning Resource APIs | YouTube Data API, Coursera API, FreeCodeCamp 
 | Deployment   | Netlify / GitHub Pages 
+|Authentication |Google Firebase (for login needed )
 
 
 
@@ -73,7 +76,7 @@ To create a personal AI career counselor that helps students:
  👨‍💻 *Developer:*
  
 *Name:* Ali Raza  
-*Program:* BS IT (7th Semester)  
+*Program:* BS IT (7th-4M)  
 *University:*  The Islamia University of Bahawalpur (IUB)  
 *Year:* 2025-26 
 
